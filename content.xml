@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260324215521R6OWO9</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260324215521GUMYAF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Situación de aprendizaje &quot;Del foro al periódico: latinismos en acción&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Fernando Yenes Bonet</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje dirigida al alumnado para el estudio de los latinismos en la prensa digital</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1774385715075</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mn53fw1x-p3d11qzea</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Situación de aprendizaje &quot;Del foro al periódico: latinismos en acción&quot;</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Situación de aprendizaje &quot;Del foro al periódico: latinismos en acción&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Hablemos en latín...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Situación de aprendizaje &quot;Del foro al periódico: latinismos en acción&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn53fw1x-p3d11qzea</odePageId>
+      <odeBlockId>block-1774004550925-waor9uiek</odeBlockId>
+      <blockName>Situación de aprendizaje &quot;Del foro al periódico: latinismos en acción&quot;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn53fw1x-p3d11qzea</odePageId>
+          <odeBlockId>block-1774004550925-waor9uiek</odeBlockId>
+          <odeIdeviceId>idevice-1774004550920-l0sz9ykm8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"> <span style="font-family: arial, helvetica, sans-serif;">En esta situación de aprendizaje vais a acercaros al latín de una manera diferente y práctica, explorando su presencia en nuestro día a día a través de la prensa digital. El objetivo principal es que seáis capaces de reconocer, comprender y analizar los latinismos que aparecen en los medios de comunicación, entendiendo su significado, su uso y su contexto. Con esta actividad no solo reforzaréis vuestros conocimientos lingüísticos, sino que también desarrollaréis una mirada más crítica y consciente sobre el lenguaje que utilizamos habitualmente. Además, descubriréis cómo el latín, lejos de ser una lengua “muerta", sigue muy vivo en la sociedad actual.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774004550920-l0sz9ykm8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"> <span style=\"font-family: arial, helvetica, sans-serif;\">En esta situación de aprendizaje vais a acercaros al latín de una manera diferente y práctica, explorando su presencia en nuestro día a día a través de la prensa digital. El objetivo principal es que seáis capaces de reconocer, comprender y analizar los latinismos que aparecen en los medios de comunicación, entendiendo su significado, su uso y su contexto. Con esta actividad no solo reforzaréis vuestros conocimientos lingüísticos, sino que también desarrollaréis una mirada más crítica y consciente sobre el lenguaje que utilizamos habitualmente. Además, descubriréis cómo el latín, lejos de ser una lengua “muerta\", sigue muy vivo en la sociedad actual.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn53fw25-xemn96bww</odePageId>
+  <odeParentPageId>page-mn53fw1x-p3d11qzea</odeParentPageId>
+  <pageName>Sesión 1: Introducción y familiarización con los latinismos</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1: Introducción y familiarización con los latinismos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 1: Introducción y familiarización con los latinismos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn53fw25-xemn96bww</odePageId>
+      <odeBlockId>block-1774005642477-mou5x5gkd</odeBlockId>
+      <blockName>Sesión 1: Introducción y familiarización con los latinismos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn53fw25-xemn96bww</odePageId>
+          <odeBlockId>block-1774005642477-mou5x5gkd</odeBlockId>
+          <odeIdeviceId>idevice-1774005642473-llcisehb0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"> <span style="font-family: arial, helvetica, sans-serif;">Tras escuchar una pequeña introducción en la que os explicaré en qué consisten los latinismos, deberéis descargar haciendo click en el enlace que os dejo debajo un archivo Word que contiene una enorme lista de ellos para que en la siguiente sesión escojáis unos cuantos y hagáis la actividad que os propondré.</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;" id="link_0"><a href="https://educastur-my.sharepoint.com/:w:/g/personal/fernandoyb_educastur_org/IQA70_d6rp2uTozr9rPW4eL0AeU6SwKu39BT-l-UwZu4B3U?e=29gzgK">ENLACE</a> </span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"> <span style="font-size: 18pt;"><strong>DICCIONARIO DE TÉRMINOS</strong></span></span></p>
+<dl class="exe-dl">
+<dt><span style="font-family: arial, helvetica, sans-serif;">Latinismo</span></dt>
+<dd>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Palabra, expresión o construcción gramatical tomada directamente del latín que se utiliza en otro idioma, en este caso el español, sin traducirse completamente. En otras palabras, es un préstamo del latín que ha llegado a nuestro idioma y se mantiene casi igual, aunque a veces adaptado a la pronunciación o escritura española.</span></p>
+</dd>
+<dt><span style="font-family: arial, helvetica, sans-serif;">Latinismo adaptado</span></dt>
+<dd>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Término de origen latino que ha sido modificado para encajar en el español, ya sea en su escritura, pronunciación o flexión gramatical. A diferencia del latinismo crudo, que se mantiene tal cual en latín, el adaptado se “españoliza” y se usa de forma más natural en el idioma. Ejemplo: déficit, referéndum/referendo</span></p>
+</dd>
+<dt><span style="font-family: arial, helvetica, sans-serif;">Latinismo crudo</span></dt>
+<dd>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;">Término o expresión tomado directamente del latín y que se mantiene en español sin ninguna adaptación, ni en la forma ni en la pronunciación. Es decir, se transfiere “tal cual” desde el latín, sin castellanizarlo. Ejemplo: <em>in albis</em></span></p>
+</dd>
+</dl>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774005642473-llcisehb0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"> <span style=\"font-family: arial, helvetica, sans-serif;\">Tras escuchar una pequeña introducción en la que os explicaré en qué consisten los latinismos, deberéis descargar haciendo click en el enlace que os dejo debajo un archivo Word que contiene una enorme lista de ellos para que en la siguiente sesión escojáis unos cuantos y hagáis la actividad que os propondré.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\" id=\"link_0\"><a href=\"https://educastur-my.sharepoint.com/:w:/g/personal/fernandoyb_educastur_org/IQA70_d6rp2uTozr9rPW4eL0AeU6SwKu39BT-l-UwZu4B3U?e=29gzgK\">ENLACE</a> </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"> <span style=\"font-size: 18pt;\"><strong>DICCIONARIO DE TÉRMINOS</strong></span></span></p>\n<dl class=\"exe-dl\">\n<dt><span style=\"font-family: arial, helvetica, sans-serif;\">Latinismo</span></dt>\n<dd>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Palabra, expresión o construcción gramatical tomada directamente del latín que se utiliza en otro idioma, en este caso el español, sin traducirse completamente. En otras palabras, es un préstamo del latín que ha llegado a nuestro idioma y se mantiene casi igual, aunque a veces adaptado a la pronunciación o escritura española.</span></p>\n</dd>\n<dt><span style=\"font-family: arial, helvetica, sans-serif;\">Latinismo adaptado</span></dt>\n<dd>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Término de origen latino que ha sido modificado para encajar en el español, ya sea en su escritura, pronunciación o flexión gramatical. A diferencia del latinismo crudo, que se mantiene tal cual en latín, el adaptado se “españoliza” y se usa de forma más natural en el idioma. Ejemplo: déficit, referéndum/referendo</span></p>\n</dd>\n<dt><span style=\"font-family: arial, helvetica, sans-serif;\">Latinismo crudo</span></dt>\n<dd>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Término o expresión tomado directamente del latín y que se mantiene en español sin ninguna adaptación, ni en la forma ni en la pronunciación. Es decir, se transfiere “tal cual” desde el latín, sin castellanizarlo. Ejemplo: <em>in albis</em></span></p>\n</dd>\n</dl>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-mn53fw25-xemn96bww</odePageId>
+          <odeBlockId>block-1774005642477-mou5x5gkd</odeBlockId>
+          <odeIdeviceId>idevice-1774200328056-nsvkg0u0m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"> Para familiarizaros un poco con los latinismos, aquí os dejo un juego que consiste en una sopa de letras y una actividad interactiva con frases para completar los huecos con el latinismo adecuado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774200328056-nsvkg0u0m","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"> Para familiarizaros un poco con los latinismos, aquí os dejo un juego que consiste en una sopa de letras y una actividad interactiva con frases para completar los huecos con el latinismo adecuado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn53fw25-xemn96bww</odePageId>
+      <odeBlockId>block-1774200711267-buvrkoxvm</odeBlockId>
+      <blockName>Buscar palabras</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn53fw25-xemn96bww</odePageId>
+          <odeBlockId>block-1774200711267-buvrkoxvm</odeBlockId>
+          <odeIdeviceId>idevice-1774200711262-j2kuwe69r</odeIdeviceId>
+          <odeIdeviceTypeName>word-search</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="sopa-IDevice">
+        <div class="game-evaluation-ids js-hidden" data-id="idevice-1774200711262-j2kuwe69r" data-evaluationb="false" data-evaluationid="20756d20-ca58-4223-b88b-cccf2908c04f"></div>
+                <div class="sopa-version js-hidden">2</div>
+                 <div class="sopa-instructions"><p>Halla en esta sopa de letras los latinismos que se corresponden con las definiciones.</p></div>
+                <div class="sopa-feedback-game"></div>              
+                <div class="sopa-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%FD%E2%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DA%F3%FE%FE%F3%B2%F7%FC%B2%F7%E1%E6%F3%B2%E1%FD%E2%F3%B2%F6%F7%B2%FE%F7%E6%E0%F3%E1%B2%FE%FD%E1%B2%FE%F3%E6%FB%FC%FB%E1%FF%FD%E1%B2%E3%E7%F7%B2%E1%F7%B2%F1%FD%E0%E0%F7%E1%E2%FD%FC%F6%F7%FC%B2%F1%FD%FC%B2%FE%F3%E1%B2%F6%F7%F4%FB%FC%FB%F1%FB%FD%FC%F7%E1%BC%AE%BD%E2%AC%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E5%FD%E0%F6%B0%A8%B0%F1%E7%E0%E0%FB%F1%E7%FE%E7%FF%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C6%E0%F3%EB%F7%F1%E6%FD%E0%FB%F3%B2%E2%E0%FD%F4%F7%E1%FB%FD%FC%F3%FE%B2%FD%B2%F3%F1%F3%F6%7B%FF%FB%F1%F3%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%F6%F7%F4%FB%F1%FB%E6%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D4%F3%FE%E6%F3%B2%FD%B2%F1%F3%E0%F7%FC%F1%FB%F3%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%FF%F7%FF%FD%E0%F3%FC%F6%E7%FF%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DC%FD%E6%F3%B2%FD%B2%FB%FC%F4%FD%E0%FF%F7%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%E0%F7%F4%F7%E0%F7%FC%F6%E7%FF%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%E1%E7%FE%E6%F3%B2%E2%FD%E2%E7%FE%F3%E0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%E7%FE%E6%FB%FF%F3%E6%E7%FF%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D6%F7%F1%FB%E1%FBa%FC%B2%F4%FB%FC%F3%FE%B2%F7%B2%FB%FC%F3%E2%F7%FE%F3%F0%FE%F7%BE%B2h%FE%E6%FB%FF%FD%B2%F3%E4%FB%E1%FD%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%FE%F3%E2%E1%E7%E1%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%E0%E0%FD%E0%B2%FB%FC%E4%FD%FE%E7%FC%E6%F3%E0%FB%FD%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%FB%E6%F7%FF%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%FE%F7%FF%F7%FC%E6%FD%B2%F6%F7%B2%E7%FC%F3%B2%FE%FB%E1%E6%F3%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%E3%E7%FB%F6%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%E1%F7%FC%F1%FB%F3%B2%FD%B2%E2%E7%FC%E6%FD%B2%F1%FE%F3%E4%F7%B2%F6%F7%B2%F3%FE%F5%FD%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%E3%E7%FD%E0%E7%FF%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DCh%FF%F7%E0%FD%B2%FF%7F%FC%FB%FF%FD%B2%F6%F7%B2%E2%F7%E0%E1%FD%FC%F3%E1%B2%E2%F3%E0%F3%B2%E6%FD%FF%F3%E0%B2%F6%F7%F1%FB%E1%FB%FD%FC%F7%E1%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%BE%E9%B0%E5%FD%E0%F6%B0%A8%B0%FF%F3%EA%FB%FF%F7%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D3%F6%E4%F7%E0%F0%FB%FD%B2%E3%E7%F7%B2%E1%FB%F5%FC%FB%F4%FB%F1%F3%B2%u208E%F7%E1%E2%F7%F1%FB%F3%FE%FF%F7%FC%E6%F7%u208F%BE%B2%u208E%E2%E0%FB%FC%F1%FB%E2%F3%FE%FF%F7%FC%E6%F7%u208F%B2%FD%B2%u208E%F1%FD%FC%B2%FF%F3%EB%FD%E0%B2%FF%FD%E6%FB%E4%FD%u208F%BC%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A3%A2%A2%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%F6%FB%F3%F5%FD%FC%F3%FE%E1%B0%A8%E6%E0%E7%F7%BE%B0%E0%F7%E4%F7%E0%E1%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%E1%FA%FD%E5%C0%F7%E1%FD%FE%E4%F7%B0%A8%E6%E0%E7%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A0%A2%A5%A7%A4%F6%A0%A2%BF%F1%F3%A7%AA%BF%A6%A0%A0%A1%BF%F0%AA%AA%F0%BF%F1%F1%F1%F4%A0%AB%A2%AA%F1%A2%A6%F4%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A6%A0%A2%A2%A5%A3%A3%A0%A4%A0%BF%F8%A0%F9%E7%E5%F7%A4%AB%E0%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%C5%FD%E0%F6%E1%D4%FB%FC%F6%B0%A8%B0%DA%F3%E1%B2%F7%FC%F1%FD%FC%E6%E0%F3%F6%FD%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%DB%FC%FB%F1%FB%F3%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%BC%BC%B0%BE%B0%FF%F5%E1%D5%F3%FF%F7%C1%E6%F3%E0%E6%B0%A8%B0%D7%FE%B2%F8%E7%F7%F5%FD%B2%EB%F3%B2%FA%F3%B2%F1%FD%FF%F7%FC%E8%F3%F6%FD%BC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D3%F1%F3%F0a%B2%F7%FE%B2%E6%FB%F7%FF%E2%FD%B2%F6%F7%B2%F8%E7%F7%F5%FD%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%B0%A8%B0%D4%FB%FC%F3%FE%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%DF%B0%A8%B0%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%DF%F3%FC%EB%C5%FD%E0%F6%B0%A8%B0%DB%FC%E6%F7%FC%E6%F3%B2%F1%FD%FC%B2%FF%F7%FC%FD%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D0%E7%E1%F1%F3%E0%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%EF%EF</div>
+                
+                
+                
+                <div class="sopa-bns js-hidden">Su navegador no es compatible con esta herramienta.</div>
+                </div> ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn53fw25-xemn96bww</odePageId>
+      <odeBlockId>block-1774203974564-367xyy4on</odeBlockId>
+      <blockName>Completa</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn53fw25-xemn96bww</odePageId>
+          <odeBlockId>block-1774203974564-367xyy4on</odeBlockId>
+          <odeIdeviceId>idevice-1774203974556-68pvqv59l</odeIdeviceId>
+          <odeIdeviceTypeName>complete</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="completa-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1774203974556-68pvqv59l" data-evaluationb="false" data-evaluationid="d191d219-f262-47db-98d4-f8994deee879"></div><div class="completa-feedback-game"></div><div class="completa-instructions"><p>Lee las frases de debajo y complétalas arrastrando el latinismo adecuado al cajón.</p></div><div class="completa-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DE%F7%F7%B2%FE%F3%E1%B2%F4%E0%F3%E1%F7%E1%B2%F6%F7%B2%F6%F7%F0%F3%F8%FD%B2%EB%B2%F1%FD%FF%E2%FE%7B%E6%F3%FE%F3%E1%B2%F3%E0%E0%F3%E1%E6%E0%F3%FC%F6%FD%B2%F7%FE%B2%FE%F3%E6%FB%FC%FB%E1%FF%FD%B2%F3%F6%F7%F1%E7%F3%F6%FD%B2%F3%FE%B2%F1%F3%F8a%FC%BC%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%C6%F7%EA%E6%B0%A8%B0%B7%A1%D1%E2%B7%A0%A2%E1%E6%EB%FE%F7%B7%A1%D6%B7%A0%A0%E6%F7%EA%E6%BF%F3%FE%FB%F5%FC%B7%A1%D3%B7%A0%A2%F8%E7%E1%E6%FB%F4%EB%B7%A1%D0%B7%A0%A0%B7%A1%D7%A3%BC%BF%B7%A0%A2%D7%FE%B7%A0%A2%F5%FD%F0%FB%F7%E0%FC%FD%B7%A0%A2%F6%F7%F1%FB%F6%FB%B7%D4%A1%B7%A0%A2%FF%F3%FC%E6%F7%FC%F7%E0%B7%A0%A2%F7%FE%B7%A0%A2%D2%D2%B7%A1%D1%F7%FF%B7%A1%D7%E1%E6%F3%E6%E7%B7%A0%A2%E3%E7%FD%B7%A1%D1%BD%F7%FF%B7%A1%D7%D2%D2%B7%A0%A2%F3%FC%E6%F7%B7%A0%A2%FE%F3%B7%A0%A2%F4%F3%FE%E6%F3%B7%A0%A2%F6%F7%B7%A0%A2%F1%FD%FC%E1%F7%FC%E1%FD%B7%A0%A2%E2%FD%FE%B7%D7%D6%E6%FB%F1%FD%BC%B7%A1%D1%F0%E0%B7%A0%A2%BD%B7%A1%D7%A0%BC%BF%B7%A0%A2%DA%F7%B7%A0%A2%F3%F1%E6%E7%F3%FE%FB%E8%F3%F6%FD%B7%A0%A2%FF%FB%B7%A0%A2%D2%D2%F1%E7%E0%E0%B7%D7%D6%F1%E7%FE%E7%FF%D2%D2%B7%A0%A2%F3%FC%E6%F7%E1%B7%A0%A2%F6%F7%B7%A0%A2%F7%FC%E4%FB%F3%E0%B7%A0%A2%FE%F3%B7%A0%A2%E1%FD%FE%FB%F1%FB%E6%E7%F6%B7%A0%A2%F6%F7%B7%A0%A2%F7%FF%E2%FE%F7%FD%BC%B7%A1%D1%F0%E0%B7%A0%A2%BD%B7%A1%D7%A1%BC%BF%B7%A0%A2%DE%F3%B7%A0%A2%F7%F1%FD%FC%FD%FF%B7%D7%D6%F3%B7%A0%A2%FC%F3%F1%FB%FD%FC%F3%FE%B7%A0%A2%E2%E0%F7%E1%F7%FC%E6%F3%B7%A0%A2%E7%FC%B7%A0%A2%D2%D2%F6%B7%D7%AB%F4%FB%F1%FB%E6%D2%D2%B7%A0%A2%F7%E1%E6%E0%E7%F1%E6%E7%E0%F3%FE%B7%A0%A2%F6%FB%F4%B7%D7%D6%F1%FB%FE%B7%A0%A2%F6%F7%B7%A0%A2%F1%FD%E0%E0%F7%F5%FB%E0%B7%A0%A2%F3%B7%A0%A2%F1%FD%E0%E6%FD%B7%A0%A2%E2%FE%F3%E8%FD%BC%B7%A1%D1%F0%E0%B7%A0%A2%BD%B7%A1%D7%A6%BC%BF%B7%A0%A2%D7%FE%B7%A0%A2%FD%E0%F3%F6%FD%E0%B7%A0%A2%E6%E7%E4%FD%B7%A0%A2%E7%FC%B7%A0%A2%D2%D2%FE%F3%E2%E1%E7%E1%D2%D2%B7%A0%A2%E3%E7%F7%B7%A0%A2%F3%FE%E6%F7%E0%B7%D4%A1%B7%A0%A2%FF%FD%FF%F7%FC%E6%B7%D7%A3%FC%F7%F3%FF%F7%FC%E6%F7%B7%A0%A2%F7%FE%B7%A0%A2%E1%F7%FC%E6%FB%F6%FD%B7%A0%A2%F6%F7%B7%A0%A2%E1%E7%B7%A0%A2%F6%FB%E1%F1%E7%E0%E1%FD%BC%B7%A1%D1%F0%E0%B7%A0%A2%BD%B7%A1%D7%A7%BC%BF%B7%A0%A2%D7%FE%B7%A0%A2%FF%FB%FC%FB%E1%E6%E0%FD%B7%A0%A2%F6%FB%F4%E7%FC%F6%FB%B7%D4%A1%B7%A0%A2%E7%FC%B7%A0%A2%D2%D2%FF%F7%FF%FD%E0%B7%D7%A3%FC%F6%E7%FF%D2%D2%B7%A0%A2%F7%FC%B7%A0%A2%F7%FE%B7%A0%A2%E3%E7%F7%B7%A0%A2%E1%F7%B7%A0%A2%F6%F7%E6%F3%FE%FE%F3%F0%F3%FC%B7%A0%A2%FE%F3%E1%B7%A0%A2%FC%E7%F7%E4%F3%E1%B7%A0%A2%FF%F7%F6%FB%F6%F3%E1%BC%B7%A1%D1%F0%E0%B7%A0%A2%BD%B7%A1%D7%A4%BC%BF%B7%A0%A2%DE%F3%B7%A0%A2%F3%E1%F3%FF%F0%FE%F7%F3%B7%A0%A2%FC%FD%B7%A0%A2%E2%E7%F6%FD%B7%A0%A2%F6%F7%FE%FB%F0%F7%E0%F3%E0%B7%A0%A2%F3%FE%B7%A0%A2%FC%FD%B7%A0%A2%F3%FE%F1%F3%FC%E8%F3%E0%E1%F7%B7%A0%A2%F7%FE%B7%A0%A2%D2%D2%E3%E7%B7%D4%A1%E0%E7%FF%D2%D2%B7%A0%A2%E0%F7%E3%E7%F7%E0%FB%F6%FD%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A0%A2%E1%E6%EB%FE%F7%B7%A1%D6%B7%A0%A0%E6%F7%EA%E6%BF%F3%FE%FB%F5%FC%B7%A1%D3%B7%A0%A2%F8%E7%E1%E6%FB%F4%EB%B7%A1%D0%B7%A0%A0%B7%A1%D7%A5%BC%BF%B7%A0%A2%D7%FE%B7%A0%A2%E2%E0%FD%EB%F7%F1%E6%FD%B7%A0%A2%F4%E7%F7%B7%A0%A2%F3%E2%E0%FD%F0%F3%F6%FD%B7%A0%A2%D2%D2%B7%A1%D1%F7%FF%B7%A1%D7%FB%E2%E1%FD%B7%A0%A2%F4%F3%F1%E6%FD%B7%A1%D1%BD%F7%FF%B7%A1%D7%D2%D2%B7%A0%A2%E6%E0%F3%E1%B7%A0%A2%FE%F3%B7%A0%A2%E4%FD%E6%F3%F1%FB%B7%D4%A1%FC%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A0%A2%E1%E6%EB%FE%F7%B7%A1%D6%B7%A0%A0%E6%F7%EA%E6%BF%F3%FE%FB%F5%FC%B7%A1%D3%B7%A0%A2%F8%E7%E1%E6%FB%F4%EB%B7%A1%D0%B7%A0%A0%B7%A1%D7%AA%BC%BF%B7%A0%A2%C1%F7%B7%A0%A2%F7%E1%E6%E7%F6%FB%B7%D4%A1%B7%A0%A2%FE%F3%B7%A0%A2%FD%F0%E0%F3%B7%A0%A2%F6%F7%FE%B7%A0%A2%F3%E7%E6%FD%E0%B7%A0%A2%D2%D2%B7%A1%D1%F7%FF%B7%A1%D7%FB%FC%B7%A0%A2%E1%FB%E6%E7%B7%A1%D1%BD%F7%FF%B7%A1%D7%D2%D2%B7%A0%D1%B7%A0%A2%E4%FB%E1%FB%E6%F3%FC%F6%FD%B7%A0%A2%FE%FD%E1%B7%A0%A2%FE%E7%F5%F3%E0%F7%E1%B7%A0%A2%E3%E7%F7%B7%A0%A2%FE%F3%B7%A0%A2%FB%FC%E1%E2%FB%E0%F3%E0%FD%FC%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A0%A2%E1%E6%EB%FE%F7%B7%A1%D6%B7%A0%A0%E6%F7%EA%E6%BF%F3%FE%FB%F5%FC%B7%A1%D3%B7%A0%A2%F8%E7%E1%E6%FB%F4%EB%B7%A1%D0%B7%A0%A0%B7%A1%D7%AB%BC%BF%B7%A0%A2%DE%F3%B7%A0%A2%FC%FD%E4%F7%FE%F3%B7%A0%A2%F4%E7%F7%B7%A0%A2%F1%FD%FF%F7%FC%E6%F3%F6%F3%B7%A0%A2%D2%D2%B7%A1%D1%F7%FF%B7%A1%D7%FB%FC%B7%A0%A2%F7%EA%E6%E0%F7%FF%FB%E1%B7%A1%D1%BD%F7%FF%B7%A1%D7%D2%D2%B7%A0%D1%B7%A0%A2%F8%E7%E1%E6%FD%B7%A0%A2%F3%FC%E6%F7%E1%B7%A0%A2%F6%F7%FE%B7%A0%A2%F7%EA%F3%FF%F7%FC%B7%A0%A2%F4%FB%FC%F3%FE%B7%A0%A2%F6%F7%B7%A0%A2%FE%FB%E6%F7%E0%F3%E6%E7%E0%F3%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A0%A2%E1%E6%EB%FE%F7%B7%A1%D6%B7%A0%A0%E6%F7%EA%E6%BF%F3%FE%FB%F5%FC%B7%A1%D3%B7%A0%A2%F8%E7%E1%E6%FB%F4%EB%B7%A1%D0%B7%A0%A0%B7%A1%D7%A3%A2%BC%BF%B7%A0%A2%DE%F3%B7%A0%A2%E2%FD%FE%FB%F1%B7%D7%D6%F3%B7%A0%A2%F7%E1%E6%E7%F6%FB%B7%D4%A1%B7%A0%A2%F7%FE%B7%A0%A2%D2%D2%B7%A1%D1%F7%FF%B7%A1%D7%FF%FD%F6%E7%E1%B7%A0%A2%FD%E2%F7%E0%F3%FC%F6%FB%B7%A1%D1%BD%F7%FF%B7%A1%D7%D2%D2%B7%A0%A2%F6%F7%FE%B7%A0%A2%FE%F3%F6%E0%B7%D4%A1%FC%B7%A0%D1%B7%A0%A2%FD%F0%E1%F7%E0%E4%F3%FC%F6%FD%B7%A0%A2%F1%B7%D4%A1%FF%FD%B7%A0%A2%E1%FB%F7%FF%E2%E0%F7%B7%A0%A2%F7%FC%E6%E0%F3%F0%F3%B7%A0%A2%E2%FD%E0%B7%A0%A2%FE%F3%B7%A0%A2%FF%FB%E1%FF%F3%B7%A0%A2%E4%F7%FC%E6%F3%FC%F3%B7%A0%A2%EB%B7%A0%A2%F6%F7%E1%F3%F1%E6%FB%E4%F3%F0%F3%B7%A0%A2%FE%F3%B7%A0%A2%F3%FE%F3%E0%FF%F3%BC%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E1%E6%E0%FB%F1%E6%D1%FA%F7%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%C1%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%E5%FD%E0%F6%E1%D7%E0%E0%FD%E0%E1%B0%A8%B0%B0%BE%B0%F3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%B0%A8%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D7%E0%E0%FD%E0%B0%A8%A0%A2%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%DE%FB%FF%FB%E6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%F6%A3%AB%A3%F6%A0%A3%AB%BF%F4%A0%A4%A0%BF%A6%A5%F6%F0%BF%AB%AA%F6%A6%BF%F4%AA%AB%AB%A6%F6%F7%F7%F7%AA%A5%AB%B0%BE%B0%FA%F3%E1%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%D0%F3%F1%F9%DB%FF%F3%F5%F7%B0%A8%B0%B0%BE%B0%F4%FD%FC%E6%D1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A6%A0%A2%A1%AB%A5%A6%A7%A7%A4%BF%A4%AA%E2%E4%E3%E4%A7%AB%FE%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F3%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%C4%FB%F6%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%DC%F7%F1%F7%E1%FB%E6%F3%E1%B2%F3%FE%B2%FF%F7%FC%FD%E1%B2%B7%E1%B7%B2%F6%F7%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%E1%B2%F1%FD%E0%E0%F7%F1%E6%F3%E1%B2%E2%F3%E0%F3%B2%FD%F0%E6%F7%FC%F7%E0%B2%FE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%BC%B2%DB%FC%E6%7B%FC%E6%F3%FE%FD%B2%F6%F7%B2%FC%E7%F7%E4%FD%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%C1%FD%FE%E7%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C6%E0%EB%B0%A8%B03%C2%E0%E7%F7%F0%F3%B2%FD%E6%E0%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FD%FF%E2%E0%FD%F0%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%F6%C1%F1%FD%E0%F7%B0%A8%B0%DA%F3%E1%B2%E6%F7%FC%FB%F6%FD%B2%B7%E1%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%F6%B2%F7%E0%E0%FD%E0%F7%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%D7%FE%B2%E6%FB%F7%FF%E2%FD%B2%FA%F3%B2%F4%FB%FC%F3%FE%FB%E8%F3%F6%FD%BC%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%D7%FC%F6%B0%A8%B0%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%FE%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%EF%EF</div><div class="completa-text-game js-hidden"><p style="text-align: justify;">1.- El gobierno decidió mantener el @@<em>statu quo</em>@@ ante la falta de consenso político.<br />2.- He actualizado mi @@currículum@@ antes de enviar la solicitud de empleo.<br />3.- La economía nacional presenta un @@déficit@@ estructural difícil de corregir a corto plazo.<br />4.- El orador tuvo un @@lapsus@@ que alteró momentáneamente el sentido de su discurso.<br />5.- El ministro difundió un @@memorándum@@ en el que se detallaban las nuevas medidas.<br />6.- La asamblea no pudo deliberar al no alcanzarse el @@quórum@@ requerido.</p>
+<p style="text-align: justify;">7.- El proyecto fue aprobado @@<em>ipso facto</em>@@ tras la votación.</p>
+<p style="text-align: justify;">8.- Se estudió la obra del autor @@<em>in situ</em>@@, visitando los lugares que la inspiraron.</p>
+<p style="text-align: justify;">9.- La novela fue comentada @@<em>in extremis</em>@@, justo antes del examen final de literatura.</p>
+<p style="text-align: justify;">10.- La policía estudió el @@<em>modus operandi</em>@@ del ladrón, observando cómo siempre entraba por la misma ventana y desactivaba la alarma.</p></div><div class="cmpt-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn53fw2b-tfk195ck1</odePageId>
+  <odeParentPageId>page-mn53fw1x-p3d11qzea</odeParentPageId>
+  <pageName>Sesión 2: Elaborando una infografía con latinismos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2: Elaborando una infografía con latinismos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 2: Elaborando una infografía con latinismos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn53fw2b-tfk195ck1</odePageId>
+      <odeBlockId>block-1774008172336-ol4woyy80</odeBlockId>
+      <blockName>Sesión 2: Elaborando una infografía con latinismos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn53fw2b-tfk195ck1</odePageId>
+          <odeBlockId>block-1774008172336-ol4woyy80</odeBlockId>
+          <odeIdeviceId>idevice-1774008172331-75yff7e6k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>  </strong><span style="font-family: arial, helvetica, sans-serif;">Una vez escogidos de la lista que os he proporcionado en la sesión anterior los latinismos que habéis decidido estudiar, llega el momento de realizar la primera actividad: tenéis que hacer una infografía utilizando la herramienta digital <em>Canva</em>, sin olvidar que debéis incluir en ella un elemento interactivo (un enlace, un QR...); en dicha infografía incluiréis imágenes con recortes sacados de la prensa digital (identificando la fuente de la que los habéis extraído) en los que aparezcan noticias que incluyan latinismos. Haciendo uso de los diccionarios que tendréis a vuestra disposición en el aula, realizaréis una traducción exacta literal de cada latinismo, aplicando para ello las nociones de gramática y de traducción que ya tenéis; para finalizar, daréis una breve explicación de su uso. No olvidéis cuidar la ortografía, las normas gramaticales en la redacción, el orden y la claridad en la exposición, lograr un diseño atractivo, aportar un número adecuado de ejemplos...</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"> Vuestro producto final debéis compartírmelo a través de la plataforma <em>TEAMS</em> al término de la quinta sesión.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774008172331-75yff7e6k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>  </strong><span style=\"font-family: arial, helvetica, sans-serif;\">Una vez escogidos de la lista que os he proporcionado en la sesión anterior los latinismos que habéis decidido estudiar, llega el momento de realizar la primera actividad: tenéis que hacer una infografía utilizando la herramienta digital <em>Canva</em>, sin olvidar que debéis incluir en ella un elemento interactivo (un enlace, un QR...); en dicha infografía incluiréis imágenes con recortes sacados de la prensa digital (identificando la fuente de la que los habéis extraído) en los que aparezcan noticias que incluyan latinismos. Haciendo uso de los diccionarios que tendréis a vuestra disposición en el aula, realizaréis una traducción exacta literal de cada latinismo, aplicando para ello las nociones de gramática y de traducción que ya tenéis; para finalizar, daréis una breve explicación de su uso. No olvidéis cuidar la ortografía, las normas gramaticales en la redacción, el orden y la claridad en la exposición, lograr un diseño atractivo, aportar un número adecuado de ejemplos...</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"> Vuestro producto final debéis compartírmelo a través de la plataforma <em>TEAMS</em> al término de la quinta sesión.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn53fw2b-ne74m3kbu</odePageId>
+  <odeParentPageId>page-mn53fw1x-p3d11qzea</odeParentPageId>
+  <pageName>Sesión 3: Empezamos con el pódcast...</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3: Empezamos con el pódcast...</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 3: Empezamos con el pódcast...</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn53fw2b-ne74m3kbu</odePageId>
+      <odeBlockId>block-1774028778834-q4gnfmnv8</odeBlockId>
+      <blockName>Sesión 3: Empezamos con el pódcast...</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn53fw2b-ne74m3kbu</odePageId>
+          <odeBlockId>block-1774028778834-q4gnfmnv8</odeBlockId>
+          <odeIdeviceId>idevice-1774028778829-cv58qyn2p</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"> <span style="font-family: arial, helvetica, sans-serif;">Lo primero que tenéis que hacer es elaborar un guion de una conversación en la que aparezcan utilizados correctamente cuantos más latinismos mejor. La conversación puede consistir en una conversación entre compañeros y /o compañeras de clase (incluso puede ser en tono cómico), una entrevista, un monólogo, un breve boletín de noticias...</span></p>
+<figure class="exe-figure position-center" style="width: 800px;"><img src="{{context_path}}/content/resources/Alumnado elaborando un guion.png" width="800" height="400" alt="Alumnado elaborando un guion por escrito en un aula." />
+<figcaption class="figcaption"><span class="title" style="font-family: arial, helvetica, sans-serif;"><em>Ilustración de estudiantes elaborando un guion en un aula, generada mediante IA imagefree.org</em></span></figcaption>
+</figure>
+<p style="text-align: justify;"> <span style="font-family: arial, helvetica, sans-serif;">Una vez hecho esto, procederéis a la grabación de vuestras voces haciendo uso de la grabadora de un dispositivo móvil y descargaréis el/los archivo/s de audio en el ordenador. Recordad que tenéis que cuidar vuestra dicción, expresividad, entonación, pronunciación y uso correcto de los latinismos.</span></p>
+<figure class="exe-figure position-center" style="width: 400px;"><img src="{{context_path}}/content/resources/Alumnado grabando con dispositivo móvil.png" width="400" height="400" alt="Alumnado grabando audio con un smartphone." />
+<figcaption class="figcaption"><span class="title" style="font-family: arial, helvetica, sans-serif;"><em>Ilustración de estudiantes grabando una conversación con smartphone, generada mediante IA Imagefree.org</em></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774028778829-cv58qyn2p","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"> <span style=\"font-family: arial, helvetica, sans-serif;\">Lo primero que tenéis que hacer es elaborar un guion de una conversación en la que aparezcan utilizados correctamente cuantos más latinismos mejor. La conversación puede consistir en una conversación entre compañeros y /o compañeras de clase (incluso puede ser en tono cómico), una entrevista, un monólogo, un breve boletín de noticias...</span></p>\n<figure class=\"exe-figure position-center\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/Alumnado elaborando un guion.png\" width=\"800\" height=\"400\" alt=\"Alumnado elaborando un guion por escrito en un aula.\" />\n<figcaption class=\"figcaption\"><span class=\"title\" style=\"font-family: arial, helvetica, sans-serif;\"><em>Ilustración de estudiantes elaborando un guion en un aula, generada mediante IA imagefree.org</em></span></figcaption>\n</figure>\n<p style=\"text-align: justify;\"> <span style=\"font-family: arial, helvetica, sans-serif;\">Una vez hecho esto, procederéis a la grabación de vuestras voces haciendo uso de la grabadora de un dispositivo móvil y descargaréis el/los archivo/s de audio en el ordenador. Recordad que tenéis que cuidar vuestra dicción, expresividad, entonación, pronunciación y uso correcto de los latinismos.</span></p>\n<figure class=\"exe-figure position-center\" style=\"width: 400px;\"><img src=\"{{context_path}}/content/resources/Alumnado grabando con dispositivo móvil.png\" width=\"400\" height=\"400\" alt=\"Alumnado grabando audio con un smartphone.\" />\n<figcaption class=\"figcaption\"><span class=\"title\" style=\"font-family: arial, helvetica, sans-serif;\"><em>Ilustración de estudiantes grabando una conversación con smartphone, generada mediante IA Imagefree.org</em></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn53fw2d-so1q6nn8r</odePageId>
+  <odeParentPageId>page-mn53fw1x-p3d11qzea</odeParentPageId>
+  <pageName>Sesión 4: Aprendiendo a manejar &quot;Audacity&quot;</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4: Aprendiendo a manejar &quot;Audacity&quot;</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 4: Aprendiendo a manejar &quot;Audacity&quot;</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn53fw2d-so1q6nn8r</odePageId>
+      <odeBlockId>block-1774027711593-cvoh72s4d</odeBlockId>
+      <blockName>Sesión 4: Aprendiendo a manejar &quot;Audacity&quot;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn53fw2d-so1q6nn8r</odePageId>
+          <odeBlockId>block-1774027711593-cvoh72s4d</odeBlockId>
+          <odeIdeviceId>idevice-1774027711592-7rv2h4wz4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"> <span style="font-family: arial, helvetica, sans-serif;">Ahora toca aprender a manejar la herramienta digital <em>Audacity</em>, que será la que utilizaréis para editar las pistas de audio que habéis grabado durante la sesión anterior y poder llevar a cabo el pódcast. Aquí debajo os dejo un vídeo...</span></p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;" id="fig_q7uoj32ed"><iframe width="560" height="314" src="https://www.youtube.com/embed/FMSbMAK0llI?si=Y0asqeLq7KS_1jiQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="license"><span class="tit">Licencia: </span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia estándar de YouTube</a></span></figcaption>
+</figure>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"> También os dejo un enlace a <em>Youtube</em> por si hay algún problema para visionar el vídeo incrustado.</span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"><a href="https://youtu.be/FMSbMAK0llI?si=Vx9GpVDN8pcSWbGJ" id="link_0">ENLACE A TUTORIAL</a></span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"> Además, os familiarizaréis con la web <a href="http://www.pixabay.com">www.pixabay.com</a>, de donde podréis descargar efectos de sonido para incorporar al pódcast.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"> </span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774027711592-7rv2h4wz4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"> <span style=\"font-family: arial, helvetica, sans-serif;\">Ahora toca aprender a manejar la herramienta digital <em>Audacity</em>, que será la que utilizaréis para editar las pistas de audio que habéis grabado durante la sesión anterior y poder llevar a cabo el pódcast. Aquí debajo os dejo un vídeo...</span></p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\" id=\"fig_q7uoj32ed\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/FMSbMAK0llI?si=Y0asqeLq7KS_1jiQ\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"license\"><span class=\"tit\">Licencia: </span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia estándar de YouTube</a></span></figcaption>\n</figure>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"> También os dejo un enlace a <em>Youtube</em> por si hay algún problema para visionar el vídeo incrustado.</span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><a href=\"https://youtu.be/FMSbMAK0llI?si=Vx9GpVDN8pcSWbGJ\" id=\"link_0\">ENLACE A TUTORIAL</a></span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"> Además, os familiarizaréis con la web <a href=\"http://www.pixabay.com\">www.pixabay.com</a>, de donde podréis descargar efectos de sonido para incorporar al pódcast.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"> </span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn53fw2e-3illvcy7c</odePageId>
+  <odeParentPageId>page-mn53fw1x-p3d11qzea</odeParentPageId>
+  <pageName>Sesión 5: Editando el audio</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5: Editando el audio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 5: Editando el audio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn53fw2e-3illvcy7c</odePageId>
+      <odeBlockId>block-1774027514724-u7d3tzxm5</odeBlockId>
+      <blockName>Sesión 5: Editando el audio</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn53fw2e-3illvcy7c</odePageId>
+          <odeBlockId>block-1774027514724-u7d3tzxm5</odeBlockId>
+          <odeIdeviceId>idevice-1774027514719-8s3u7zf4a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"> Esta sesión final la dedicaréis a editar las pistas de audio que hayáis grabado con vuestras voces utilizando la herramienta digital <em>Audacity</em> para eliminar espacios vacíos de sonido, unir pistas, eliminar ruidos, añadir posibles efectos de sonido, música...</span></p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/Captura Audacity.JPG" width="1353" height="709" alt="Imagen de herramienta digital Audacity con fines ilustrativos" /></p>
+<p style="text-align: justify;"><br /></p>
+<p style="text-align: justify;"> <span style="font-family: arial, helvetica, sans-serif;">El producto final debéis compartírmelo en formato MP3 a través de la plataforma <em>TEAMS </em>al término de la quinta sesión.</span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774027514719-8s3u7zf4a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"> Esta sesión final la dedicaréis a editar las pistas de audio que hayáis grabado con vuestras voces utilizando la herramienta digital <em>Audacity</em> para eliminar espacios vacíos de sonido, unir pistas, eliminar ruidos, añadir posibles efectos de sonido, música...</span></p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/Captura Audacity.JPG\" width=\"1353\" height=\"709\" alt=\"Imagen de herramienta digital Audacity con fines ilustrativos\" /></p>\n<p style=\"text-align: justify;\"><br /></p>\n<p style=\"text-align: justify;\"> <span style=\"font-family: arial, helvetica, sans-serif;\">El producto final debéis compartírmelo en formato MP3 a través de la plataforma <em>TEAMS </em>al término de la quinta sesión.</span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn53fw2f-137cn98jx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Entrega de actividades y evaluación</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Entrega de actividades y evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Entrega de actividades y evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn53fw2f-137cn98jx</odePageId>
+      <odeBlockId>block-1774202802514-3gt1av5tr</odeBlockId>
+      <blockName>Entrega de actividades y evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn53fw2f-137cn98jx</odePageId>
+          <odeBlockId>block-1774202802514-3gt1av5tr</odeBlockId>
+          <odeIdeviceId>idevice-1774202802512-bn04mijdc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"> <span style="font-family: arial, helvetica, sans-serif;">Al término de la quinta sesión deberéis compartirme a través de la plataforma <em>TEAMS</em> un enlace a vuestra infografía realizada con <em>Canva</em> y enviarme el pódcast en formato mp3. </span></p>
+<p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"> El pódcast será evaluado por medio de una rúbrica, y la infografía la evaluaréis vosotros y vosotras a través de una lista de cotejo.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"></span><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774202802512-bn04mijdc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"> <span style=\"font-family: arial, helvetica, sans-serif;\">Al término de la quinta sesión deberéis compartirme a través de la plataforma <em>TEAMS</em> un enlace a vuestra infografía realizada con <em>Canva</em> y enviarme el pódcast en formato mp3. </span></p>\n<p style=\"text-align: justify;\"><span style=\"font-family: arial, helvetica, sans-serif;\"> El pódcast será evaluado por medio de una rúbrica, y la infografía la evaluaréis vosotros y vosotras a través de una lista de cotejo.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"></span><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mn53fw2f-137cn98jx</odePageId>
+      <odeBlockId>block-1774299128845-2kuodgc26</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn53fw2f-137cn98jx</odePageId>
+          <odeBlockId>block-1774299128845-2kuodgc26</odeBlockId>
+          <odeIdeviceId>idevice-1774299128839-i9ezl6a4z</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table class='exe-table'><caption>Rúbrica para evaluar un pódcast</caption><thead><tr><th>&nbsp;</th><th>5 Excelente</th><th>4 Bien</th><th>3 Suficiente</th><th>2 Insuficiente</th><th>1 Muy deficiente</th></tr></thead><tbody><tr><th>Lectura del texto</th><td>Interpreta su papel de manera expresiva y cuidando los rasgos propios de la oralidad (tono, ritmo, entonación, énfasis...). <span>(2)</span></td><td>Interpreta su papel de manera expresiva y cuidando la mayoría de los rasgos propios de la oralidad (tono, ritmo, entonación, énfasis...). <span>(1,5)</span></td><td>Interpreta su papel sin tener en cuenta todos los rasgos propios de la oralidad (tono, ritmo, entonación, énfasis...). <span>(1)</span></td><td>Interpreta su papel teniendo en cuenta muy pocos de los rasgos propios de la oralidad (tono, ritmo, entonación, énfasis...). <span>(0,5)</span></td><td>Interpreta su papel sin tener en cuenta ninguno de los rasgos propios de la oralidad (tono, ritmo, entonación, énfasis...). <span>(0)</span></td></tr><tr><th>Análisis y comentario del texto</th><td>Utiliza todos los latinismos de forma correcta, precisa y adecuada al contexto respetando su significado. <span>(2)</span></td><td>Utiliza la mayoría de los latinismos correctamente, aunque puede haber algún error menor que no afecta a la comprensión. <span>(1,5)</span></td><td>Utiliza algunos latinismos de manera correcta, y aunque presenta varios errores de uso o de significado, la comprensión general se mantiene. <span>(1)</span></td><td>Usa pocos latinismos o los emplea de forma incorrecta en la mayoría de los casos (errores de significado, forma o contexto). <span>(0,5)</span></td><td>No utiliza latinismos o los emplea de forma incorrecta y sin sentido, mostrando un total desconocimiento de su uso. <span>(0)</span></td></tr><tr><th>Participación en el trabajo en equipo</th><td>Pronunciación totalmente correcta y consistente de todos los latinismos. <span>(2)</span></td><td>Pronunciación correcta en la mayoría de los casos. <span>(1,5)</span></td><td>Pronuncia correctamente algunos latinismos, con errores puntuales. <span>(1)</span></td><td>Comete varios errores de pronunciación que afectan la comprensión. <span>(0,5)</span></td><td>Pronuncia incorrectamente la mayoría de los latinismos. <span>(0)</span></td></tr><tr><th>Manejo de las herramientas digitales de grabación de audio</th><td>Usa las herramientas digitales sin ningún problema y aprovecha todas las posibilidades que ofrecen. <span>(2)</span></td><td>Usa las herramientas digitales sin grandes problemas y aprovecha bastante bien las posibilidades que ofrecen. <span>(1,5)</span></td><td>Usa las herramientas digitales con ayuda y no aprovecha todas las posibilidades que ofrecen. <span>(1)</span></td><td>Tiene bastantes problemas en el uso de las herramientas digitales y aprovecha muy poco sus posibilidades. <span>(0,5)</span></td><td>Tiene muchos problemas en el uso de las herramientas digitales y no aprovecha en absoluto sus posibilidades. <span>(0)</span></td></tr><tr><th>Asunción de tareas</th><td>Asume con responsabilidad todas las tareas que le corresponden en la elaboración del pódcast. <span>(2)</span></td><td>Asume con responsabilidad casi todas las tareas que le corresponden en la elaboración del pódcast. <span>(1,5)</span></td><td>Asume sólo algunas de las tareas que le corresponden en la elaboración del pódcast. <span>(1)</span></td><td>Asume con responsabilidad muy pocas de las tareas que le corresponden en la elaboración del pódcast. <span>(0,5)</span></td><td>No asume con responsabilidad ninguna de las tareas que le corresponden en la elaboración del pódcast. <span>(0)</span></td></tr></tbody></table><p class="exe-rubrics-authorship sr-av"><a href="http://cedec.intef.es/" target="_blank" class="author" rel="noopener">CEDEC</a>. <span class="title"><em>Rúbrica para evaluar un pódcast</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-mn53fw2f-137cn98jx</odePageId>
+          <odeBlockId>block-1774299128845-2kuodgc26</odeBlockId>
+          <odeIdeviceId>idevice-1774303732133-uresz038a</odeIdeviceId>
+          <odeIdeviceTypeName>checklist</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="listacotejo-IDevice"><div class="listacotejo-instructions CTJ-instructions"><p style="text-align: justify;"><span style="font-family: arial, helvetica, sans-serif;"> Completa la lista de cotejo marcando las casillas al realizar las actividades correspondientes.</span></p></div><div class="listacotejo-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%E6%F7%F8%FD%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A6%A1%A2%A1%A5%A1%A0%A3%A1%A1%BF%E7%E0%F7%E1%E8%A2%A1%AA%F3%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%DE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%B2%E2%F3%E0%F3%B2%F3%E7%E6%FD%F7%E4%F3%FE%E7%F3%F1%FBa%FC%B2%F6%F7%B2%FE%F3%B2%FB%FC%F4%FD%F5%E0%F3%F4%7F%F3%B0%BE%B0%E1%E7%F0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%FE%F7%E4%F7%FE%E1%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D7%FE%B2%F7%FE%F7%FF%F7%FC%E6%FD%B2%FB%FC%E6%F7%E0%F3%F1%E6%FB%E4%FD%B2%F7%E1%E6s%B2%FB%FC%F1%FE%E7%FB%F6%FD%B2%EB%B4%FC%F0%E1%E2%A9%AE%E1%E6%E0%FD%FC%F5%B2%F6%F3%E6%F3%BF%E1%E6%F3%E0%E6%AF%CE%B0%A3%A6%A5%A6%CE%B0%B2%F6%F3%E6%F3%BF%F7%FC%F6%AF%CE%B0%A3%A7%A3%A7%CE%B0%AC%F4%E7%FC%F1%FB%FD%FC%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%AE%BD%E1%E6%E0%FD%FC%F5%AC%BC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DB%FC%F1%FE%E7%EB%F7%B2%FE%F3%B2%AE%E1%E6%E0%FD%FC%F5%B2%F6%F3%E6%F3%BF%E1%E6%F3%E0%E6%AF%CE%B0%A4%A4%A3%CE%B0%B2%F6%F3%E6%F3%BF%F7%FC%F6%AF%CE%B0%A4%AA%A6%CE%B0%AC%E6%E0%F3%F6%E7%F1%F1%FBa%FC%B2%F1%FD%E0%E0%F7%F1%E6%F3%AE%BD%E1%E6%E0%FD%FC%F5%AC%B2%F6%F7%B2%F1%F3%F6%F3%B2%FE%F3%E6%FB%FC%FB%E1%FF%FD%BC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D3c%F3%F6%F7%B2%E7%FC%F3%B2%AE%E1%E6%E0%FD%FC%F5%B2%F6%F3%E6%F3%BF%E1%E6%F3%E0%E6%AF%CE%B0%A5%A0%A5%CE%B0%B2%F6%F3%E6%F3%BF%F7%FC%F6%AF%CE%B0%A5%A5%A2%CE%B0%AC%F7%EA%E2%FE%FB%F1%F3%F1%FBa%FC%B2%F1%FE%F3%E0%F3%B2%F3%F1%FE%F3%E0%F3%FC%F6%FD%B2%F7%FE%B2%E7%E1%FD%B2%F6%F7%FE%B2%FE%F3%E6%FB%FC%FB%E1%FF%FD%AE%BD%E1%E6%E0%FD%FC%F5%AC%BC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DB%FC%F1%FE%E7%EB%F7%B2%FE%FD%E1%B2%E0%F7%F1%FD%E0%E6%F7%E1%B2%F1%FD%FC%B4%FC%F0%E1%E2%A9%AE%E1%E6%E0%FD%FC%F5%B2%F6%F3%E6%F3%BF%E1%E6%F3%E0%E6%AF%CE%B0%A6%A7%A3%CE%B0%B2%F6%F3%E6%F3%BF%F7%FC%F6%AF%CE%B0%A6%AB%A3%CE%B0%AC%FE%F3%E6%FB%FC%FB%E1%FF%FD%E1%B2%F1%FE%F3%E0%F3%FF%F7%FC%E6%F7%B2%FB%F6%F7%FC%E6%FB%F4%FB%F1%F3%F0%FE%F7%E1%BC%AE%BD%E1%E6%E0%FD%FC%F5%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C1%F7%B2%FB%F6%F7%FC%E6%FB%F4%FB%F1%F3%B2%FE%F3%B2%AE%E1%E6%E0%FD%FC%F5%B2%F6%F3%E6%F3%BF%E1%E6%F3%E0%E6%AF%CE%B0%A3%A1%A2%A2%CE%B0%B2%F6%F3%E6%F3%BF%F7%FC%F6%AF%CE%B0%A3%A1%A1%A4%CE%B0%AC%F4%E7%F7%FC%E6%F7%B2%F6%F7%B2%FE%FD%E1%B2%E0%F7%F1%FD%E0%E6%F7%E1%B2%F6%F7%B2%E2%E0%F7%FC%E1%F3%BC%AE%BD%E1%E6%E0%FD%FC%F5%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DE%FD%E1%B2%E6%F7%EA%E6%FD%E1%B2%FB%FC%F1%FE%E7%FB%F6%FD%E1%B2%E2%E0%F7%E1%F7%FC%E6%F3%FC%B4%FC%F0%E1%E2%A9%AE%E1%E6%E0%FD%FC%F5%B2%F6%F3%E6%F3%BF%E1%E6%F3%E0%E6%AF%CE%B0%A3%A2%AA%A4%CE%B0%B2%F6%F3%E6%F3%BF%F7%FC%F6%AF%CE%B0%A3%A3%A0%A7%CE%B0%AC%F1%FD%E0%E0%F7%F1%F1%FBa%FC%B2%FD%E0%E6%FD%F5%E0s%F4%FB%F1%F3%B2%EB%B2%F5%E0%F3%FF%F3%E6%FB%F1%F3%FE%BC%AE%BD%E1%E6%E0%FD%FC%F5%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DA%F3%F1%F7%B2%E7%E1%FD%B2%F3%F6%F7%F1%E7%F3%F6%FD%B2%F6%F7%B2%AE%E1%E6%E0%FD%FC%F5%B2%F6%F3%E6%F3%BF%E1%E6%F3%E0%E6%AF%CE%B0%A3%A3%A7%A4%CE%B0%B2%F6%F3%E6%F3%BF%F7%FC%F6%AF%CE%B0%A3%A3%A5%AA%CE%B0%AC%F7%FE%F7%FF%F7%FC%E6%FD%E1%B2%E4%FB%E1%E7%F3%FE%F7%E1%AE%BD%E1%E6%E0%FD%FC%F5%AC%B2%BA%FB%FFs%F5%F7%FC%F7%E1%BE%B2%FB%F1%FD%FC%FD%E1%BE%B2%F6%FB%E1%F7c%FD%BB%BC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DE%FD%E1%B2%E6%F7%EA%E6%FD%E1%B2%E1%FD%FC%B4%FC%F0%E1%E2%A9%AE%E1%E6%E0%FD%FC%F5%B2%F6%F3%E6%F3%BF%E1%E6%F3%E0%E6%AF%CE%B0%A3%A2%A1%A3%CE%B0%B2%F6%F3%E6%F3%BF%F7%FC%F6%AF%CE%B0%A3%A2%A4%A0%CE%B0%AC%F1%FE%F3%E0%FD%E1%BE%B2%F0%E0%F7%E4%F7%E1%B2%EB%B2%F1%FD%FF%E2%E0%F7%FC%E1%FB%F0%FE%F7%E1%BC%AE%BD%E1%E6%E0%FD%FC%F5%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D7%FE%B2%F1%FD%FC%E6%F7%FC%FB%F6%FD%B2%F7%E1%E6s%B2%AE%E1%E6%E0%FD%FC%F5%B2%F6%F3%E6%F3%BF%E1%E6%F3%E0%E6%AF%CE%B0%AB%A7%A7%CE%B0%B2%F6%F3%E6%F3%BF%F7%FC%F6%AF%CE%B0%AB%A5%A6%CE%B0%AC%F0%FB%F7%FC%B2%FD%E0%F5%F3%FC%FB%E8%F3%F6%FD%AE%BD%E1%E6%E0%FD%FC%F5%AC%B2%BA%FD%E0%F6%F7%FC%B2%FEa%F5%FB%F1%FD%B2%EB%B2%F7%E1%E6%E0%E7%F1%E6%E7%E0%F3%F6%FD%BB%BC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C1%F7%B2%FA%F3%FC%B2%E1%F7%FE%F7%F1%F1%FB%FD%FC%F3%F6%FD%B2%AE%E1%E6%E0%FD%FC%F5%B2%F6%F3%E6%F3%BF%E1%E6%F3%E0%E6%AF%CE%B0%A7%A0%A4%CE%B0%B2%F6%F3%E6%F3%BF%F7%FC%F6%AF%CE%B0%A7%A6%A7%CE%B0%AC%E4%F3%E0%FB%FD%E1%B2%F7%F8%F7%FF%E2%FE%FD%E1%AE%BD%E1%E6%E0%FD%FC%F5%AC%B2%BA%F1%F3%FC%E6%FB%F6%F3%F6%B2%F3%F6%F7%F1%E7%F3%F6%F3%BB%B2%F6%F7%B2%FE%F3%E6%FB%FC%FB%E1%FF%FD%E1%BC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%CF%BE%B0%FA%F3%E1%DE%FD%F5%FD%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%DE%FD%F5%FD%B0%A8%B0%B0%BE%B0%FA%F3%E1%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%B0%B0%BE%B0%FA%F3%E1%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%B0%B0%BE%B0%E1%F3%E4%F7%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E1%F7%E0%D6%F3%E6%F3%B0%A8%F4%F3%FE%E1%F7%BE%B0%F4%FD%FD%E6%F7%E0%B0%A8%B0%D7%E1%E6%F3%B2%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%E1%A8%BD%BD%F7%E1%BC%E5%FB%F9%FB%E2%F7%F6%FB%F3%BC%FD%E0%F5%BD%E5%FB%F9%FB%BD%DE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%FF%E2%E0%FD%F0%F3%F1%FB%B7%D1%A1%B7%D0%A1%FC%AC%FE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%AE%BD%F3%AC%B2%E1%F7%B2%F7%FC%F1%E7%F7%FC%E6%E0%F3%B2%F0%F3%F8%FD%B2%E7%FC%F3%B2%FE%FB%F1%F7%FC%F1%FB%F3%AE%BD%F0%E0%AC%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%A8%BD%BD%F1%E0%F7%F3%E6%FB%E4%F7%F1%FD%FF%FF%FD%FC%E1%BC%FD%E0%F5%BD%FE%FB%F1%F7%FC%E1%F7%E1%BD%F0%EB%BF%E1%F3%BD%A6%BC%A2%AC%D1%E0%F7%F3%E6%FB%E4%F7%B2%D1%FD%FF%FF%FD%FC%E1%B2%C0%F7%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%BF%D1%FD%FF%E2%F3%E0%E6%FB%E0%B2%FB%F5%E7%F3%FE%B2%A6%BC%A2%B2%DB%FC%E6%F7%E0%FC%F3%E6%FB%FD%FC%F3%FE%B2%DE%FB%F1%F7%FC%E1%F7%AE%BD%F3%AC%B0%BE%B0%E7%E1%F7%C1%F1%FD%E0%F7%B0%A8%E6%E0%E7%F7%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%D1%FD%FF%E2%FE%FB%E6%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B0%BE%B0%FF%E1%F5%D6%FD%FC%F7%B0%A8%B0%DA%F7%F1%FA%FD%B0%BE%B0%FF%E1%F5%DB%FC%C2%E0%FD%F5%E0%F7%E1%E1%B0%A8%B0%D7%FC%B2%E2%E0%FD%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C7%FC%E0%F7%F3%FE%FB%E8%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FF%E2%FE%F7%E6%F3%E0%B0%BE%B0%FF%E1%F5%E6%F3%E1%F9%DC%E7%FF%F0%F7%E0%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E6%F3%E0%F7%F3%E1%B0%BE%B0%FF%E1%F5%DC%F3%FF%F7%B0%A8%B0%DC%FD%FF%F0%E0%F7%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D4%F7%F1%FA%F3%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%B0%A8%B0%D6%F7%E1%F1%F3%E0%F5%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E1%E6%B0%A8%B0%FE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%E6%F7%F8%FD%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%B0%A8%B0%E2%E7%FC%E6%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%D6%F7%FE%F7%E6%F7%B0%A8%B0-%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%F6%F7%E1%F7%F3%B2%F0%FD%E0%E0%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%F1%F3%FF%E2%FD%E1%B2%F6%F7%FE%B2%F4%FD%E0%FF%E7%FE%F3%E0%FB%FD%AD%B0%EF%EF</div><div class="listacotejo-bns js-hidden">Navegador incompatible</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mn53fw2g-fg659s13t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atribución y fichero descargable</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mn53fw2g-fg659s13t</odePageId>
+      <odeBlockId>block-1774198744615-ycuiuca3e</odeBlockId>
+      <blockName>Atribución y descarga del archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mn53fw2g-fg659s13t</odePageId>
+          <odeBlockId>block-1774198744615-ycuiuca3e</odeBlockId>
+          <odeIdeviceId>idevice-1774198744611-ml827rju5</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Situación de aprendizaje "Del foro al periódico: latinismos en acción"</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Situación de aprendizaje dirigida al alumnado para el estudio de los latinismos en la prensa digital</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Fernando Yenes Bonet</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
